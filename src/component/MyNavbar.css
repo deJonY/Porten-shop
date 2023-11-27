@@ -1,0 +1,50 @@
+
+.BG{
+    background-color: #0F0F0F;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+.navbar-brand{
+    margin: 15px 0;
+}
+.nav-link{
+    color: #ffffff;
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0;
+    text-align: left;
+}
+.nav-link:active, .nav-link:hover, .nav-link:focus{
+    color: #ffffff;
+}
+.nav-item:active{
+    background-color: #0f0f0f;
+}
+.buttons{
+    background-color: #0F0F0F;
+}
+.navBtn1{
+    margin: auto 40px;
+    border: none;
+    background-color: #0F0F0F;
+    padding: 0;
+}
+.navBtn2{
+    border: none;
+    background-color: #0F0F0F;
+    padding: 0;
+}
+.Icon{
+    background-color: transparent;
+}
+.shopIcon, .searchIcon{
+    background-color: #0F0F0F;
+}

@@ -1,0 +1,57 @@
+.midTitle{
+    font-family: "Playfair Display", Serif;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0;
+    text-align: center;
+    color: #ffffff;
+    margin: 120px auto 0;
+}
+.hr4{
+    color: white;
+    width: 120px;
+    margin: 40px auto 80px;
+    border: 1px solid white;
+    opacity: 0.8;
+}
+.CSBCenter1{
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.CSPadding{
+    width: 16rem;
+}
+.CSBoxImg{
+    text-align: center;
+    background-color: #19181C;
+}
+.CSwatchImg{
+    width: 160px;
+    height: 160px;
+    margin: 60px auto;
+    background-color: transparent;
+}
+
+.CSBoxTitle{
+    font-family: "Playfair Display", Serif;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.CSBoxText{
+    font-family: "Playfair Display", Serif;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #D0D0D0;
+}
+
+.CSBCenter2{
+    justify-content: center;
+    margin-bottom: 150px;
+}

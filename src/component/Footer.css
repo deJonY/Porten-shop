@@ -1,0 +1,90 @@
+.tr{
+    background-color: transparent;
+}
+.footerBgImg{
+    height: 400px;
+    background-position-x: center;
+    background-image: url("../img/Rectangle 15 (1).png");
+}
+.footerTitle{
+    text-transform: uppercase;
+    background-color: transparent;
+    font-family: "Playfair Display", Serif;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #ffffff;
+    margin: 80px auto 40px;
+}
+.footerText1{
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.7px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.buttons1, .buttons2{
+    display: flex;
+    gap: 20px;
+}
+.buttons2{
+    margin-top: 20px;
+}
+.button1, .button2{
+    padding: 10px 20px 10px 20px;
+    border: none;
+    background-color: #0F0F0F;
+}
+.FBtnLink1, .FBtnLink2{
+    text-decoration: none;
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.7px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.footerText{
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.7px;
+    text-align: left;
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+.footerEmail{
+    width: 210px;
+    height: 42px;
+    padding-left: 10px;
+    border: none;
+    background-color: #1f1f1f;
+    color: white;
+}
+.footerEmail:focus-visible {
+    outline: none;
+}
+.inBtn{
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+.inBtnText{
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #ffffff;
+    text-decoration: none;
+}
+.paddingLeft{
+    padding-left: 50px;
+}
